@@ -26,10 +26,10 @@ A simple Flight Booking System developed in Java using Object-Oriented Programmi
 ## Output Screenshots
 
 ### View Flights
-![View Flights](screenshots/Output1.png)
+![Output1](Output1.png)
 
 ### Book Flight
-![Book Flight](screenshots/Output2.png)
+![Output2](Output2.png)
 
 ## Author
 
